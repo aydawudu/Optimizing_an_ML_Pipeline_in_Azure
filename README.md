@@ -36,7 +36,7 @@ The AutoML automated the ML pipeline using parameters such as expirement\_timeou
 
 One of the main difference between the hyperdrive and AutoML is that in hyperdrive we stipulate the model while in AutoML different models are trained then the best model is chosen. In this project the accuracy obtained from the hyperdrive is 0.9103187
 
-![](RackMultipart20220119-4-1iy18l1_html_c21edf3d2a1b96dd.png)
+![screenshot](hyberdrive.png)
 
 AutoML best model was VotingEnsemble with an accuracy of 0.91719 therefore performed a little better than the model trained in the hyperdrive.
 
