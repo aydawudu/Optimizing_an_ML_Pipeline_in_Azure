@@ -54,6 +54,6 @@ For the AutoML, I will explore the use of other algorithms to see how it affects
 
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**   **Image of cluster marked for deletion**
 
-![](RackMultipart20220119-4-1iy18l1_html_f021a88244f4e18d.png)
+![](screenshorts/deleteautoml.png)
 
-![](RackMultipart20220119-4-1iy18l1_html_318cad3ec67a3bbd.png)
+![](screenshorts/automl.png)
