@@ -40,7 +40,7 @@ One of the main difference between the hyperdrive and AutoML is that in hyperdri
 
 AutoML best model was VotingEnsemble with an accuracy of 0.91719 therefore performed a little better than the model trained in the hyperdrive.
 
-![](RackMultipart20220119-4-1iy18l1_html_700a8208707ab54b.png)
+![](screenshorts/automl.png)
 
 **Future work**
 
